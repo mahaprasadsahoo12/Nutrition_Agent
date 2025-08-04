@@ -45,10 +45,9 @@
 
 ## 🖼️ Screenshots
 
-<p float="left">
-  <img src="./Agent Preview/image 1.png" width="300"/>
-  <img src="./Agent Preview/image 3.png" width="300"/>  
-</p>
+![Nutrition Agent Preview 1](https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%201.png?raw=true)
+![Nutrition Agent Preview 2](https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%203.png?raw=true)
+
 
 
 ---
@@ -80,9 +79,9 @@
 ## 👨‍💻 Developer
 
 **[Mahaprasad Sahoo]**  
-MCA, [Engineering]  
-[GITA AUTONOMOUS COLLEGE, BHUBANESWAR]  
-[https://github.com/mahaprasadsahoo12]
+MCA, Department of Engineering  
+GITA AUTONOMOUS COLLEGE, BHUBANESWAR  
+Github Link : https://github.com/mahaprasadsahoo12
 
 ---
 
