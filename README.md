@@ -46,19 +46,21 @@
 ## 🖼️ Screenshots
 
 ### 🔹 **Agent Preview** 
-<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%201.png?raw=true" />
+<img width="850" height="850" alt="Preview" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%201.png?raw=true" />
 
-<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%202.png?raw=true" />
+<img width="850" height="850" alt="Preview" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%203.png?raw=true" />
 
-<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%204.png?raw=true" />
+<img width="850" height="850" alt="Preview" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%204.png?raw=true" />
 
 ### 🔹 **Agent Instructions Configuration** 
-<img width="1364" height="643" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Configurations.png?raw=true" />
+<img width="850" height="850" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Configurations.png?raw=true" />
 
-<img width="1364" height="643" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Setup.png?raw=true" />
+<img width="850" height="850" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Setup.png?raw=true" />
 
 ### 🔹 **Deployment**  
-<img width="1365" height="643" alt="Depolyed" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Deployment.png?raw=true" />
+<img width="850" height="850" alt="Depolyed" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Deplyment_2.png?raw=true" />
+
+<img width="850" height="850" alt="Depolyed" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Deployment.png?raw=true" />
 
 ---
 
