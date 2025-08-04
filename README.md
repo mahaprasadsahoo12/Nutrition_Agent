@@ -45,10 +45,20 @@
 
 ## 🖼️ Screenshots
 
-![Nutrition Agent Preview 1](https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%201.png?raw=true)
-![Nutrition Agent Preview 2](https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%203.png?raw=true)
+### 🔹 **Agent Preview** 
+<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%201.png?raw=true" />
 
+<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%202.png?raw=true" />
 
+<img width="1365" height="643" alt="Setup" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Image%204.png?raw=true" />
+
+### 🔹 **Agent Instructions Configuration** 
+<img width="1364" height="643" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Configurations.png?raw=true" />
+
+<img width="1364" height="643" alt="instructions" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Setup.png?raw=true" />
+
+### 🔹 **Deployment**  
+<img width="1365" height="643" alt="Depolyed" src="https://github.com/mahaprasadsahoo12/Nutrition_Agent/blob/main/Agent%20Preview/Deployment.png?raw=true" />
 
 ---
 
@@ -76,9 +86,17 @@
 
 ---
 
+## 🔗 Useful Links
+
+- **IBM Cloud**: [IBM Cloud Lite](https://cloud.ibm.com)
+- **IBM Watsonx.ai**: [IBM Watsonx.ai](https://www.ibm.com/watsonx)
+- **IBM SkillsBuild**: [IBM SkillsBuild](https://skillsbuild.org)
+- 
+---
+
 ## 👨‍💻 Developer
 
-**[Mahaprasad Sahoo]**  
+**Mahaprasad Sahoo**  
 MCA, Department of Engineering  
 GITA AUTONOMOUS COLLEGE, BHUBANESWAR  
 Github Link : https://github.com/mahaprasadsahoo12
@@ -93,6 +111,7 @@ Github Link : https://github.com/mahaprasadsahoo12
 
 ## 📄 Certifications
 
+All Agent previews/Screenshots related to this project is available under the `Agent_Preview/` folder.
 All IBM Certifications related to this project are available under the `Certificates/` folder.
 
 ---
