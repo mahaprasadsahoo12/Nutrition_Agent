@@ -1,7 +1,6 @@
 # 🥗 Nutrition Agent – The Smartest AI-Powered Nutrition Assistant
 
-![IBM Cloud](https://img.shields.io/badge/Built%20on-IBM%20Cloud-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+![IBM Cloud](https://img.shields.io/badge/Built%20on-IBM%20Cloud-blue)    
 ![AI Project](https://img.shields.io/badge/Project-Type%3A%20Generative%20AI-yellow)
 
 ---
